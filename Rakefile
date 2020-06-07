@@ -90,6 +90,7 @@ namespace :spec do
     :graphql,
     :grpc,
     :http,
+    :kafka,
     :mongodb,
     :mysql2,
     :presto,
